@@ -2,7 +2,7 @@
 
 Building a small app that help with finances.
 
-### Stack
+# Stack
 
 Ruby, Rails, JS
 PostgreSQL
